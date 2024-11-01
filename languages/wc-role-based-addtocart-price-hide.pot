@@ -1,0 +1,126 @@
+# Copyright (C) 2018 Role Based Add To Cart/Price Hide For WooCommerce
+# This file is distributed under the same license as the Role Based Add To Cart/Price Hide For WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Role Based Add To Cart/Price Hide For WooCommerce 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-role-based-addtocart-price-hide\n"
+"POT-Creation-Date: 2018-04-01 01:29:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: bootstrap.php:96
+msgid "Save"
+msgstr ""
+
+#: bootstrap.php:142
+msgid "F.A.Q"
+msgstr ""
+
+#: bootstrap.php:143
+msgid "View On Github"
+msgstr ""
+
+#: bootstrap.php:144
+msgid "Report Issue"
+msgstr ""
+
+#: bootstrap.php:145
+msgid "Donate"
+msgstr ""
+
+#: bootstrap.php:153
+msgid "Settings"
+msgstr ""
+
+#: bootstrap.php:154
+msgid "Contact Author"
+msgstr ""
+
+#: includes/class-settings.php:36 includes/class-settings.php:52
+msgid "General"
+msgstr ""
+
+#: includes/class-settings.php:85
+msgid "Enabled User Roles"
+msgstr ""
+
+#: includes/class-settings.php:86
+msgid "Select All User roles for whom you want to hide price / addtocart button"
+msgstr ""
+
+#: includes/class-settings.php:97
+msgid "Select All Produc Types you want to hide price / addtocart button"
+msgstr ""
+
+#: includes/class-settings.php:98
+msgid "Enabled Product Types"
+msgstr ""
+
+#: includes/class-settings.php:128
+msgid "Hide Price ?"
+msgstr ""
+
+#: includes/class-settings.php:129 includes/class-settings.php:138
+#: includes/class-settings.php:150
+msgid "Yes"
+msgstr ""
+
+#: includes/class-settings.php:130 includes/class-settings.php:139
+#: includes/class-settings.php:151
+msgid "No"
+msgstr ""
+
+#: includes/class-settings.php:131
+msgid "Product Price will be hidden if set to Yes"
+msgstr ""
+
+#: includes/class-settings.php:137
+msgid "Hide AddToCart Button ?"
+msgstr ""
+
+#: includes/class-settings.php:140
+msgid "Product Add To Cart Button will be hidden if set to Yes"
+msgstr ""
+
+#: includes/class-settings.php:149
+msgid "Hide Variation ?"
+msgstr ""
+
+#: includes/class-settings.php:152
+msgid "Product Variations will be hidden if set to Yes"
+msgstr ""
+
+#: includes/class-settings.php:159
+msgid "Custom Message"
+msgstr ""
+
+#: includes/class-settings.php:160
+msgid "Used when product price is hidden.. use <code>[currency]</code> to get current store currency"
+msgstr ""
+
+#: wc-role-based-addtocart-price-hide.php:15
+msgid "Role Based Add To Cart/Price Hide For WooCommerce"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Role Based Add To Cart/Price Hide For WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/wc-role-based-addtocart-price-hide"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Hide Product Add To Cart / Price Based on User Role"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Varun Sridharan"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://varunsridharan.in"
+msgstr ""
